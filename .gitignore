@@ -1,0 +1,6 @@
+/server/state.ts
+/server/main.ts
+.parcel-cache
+node_modules
+dist
+/db/index.ts
